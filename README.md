@@ -34,7 +34,7 @@ The dataset contains customer shopping information, including demographics, purc
 | Pandas                          | Data manipulation              |
 | NumPy                           | Numerical operations           |
 | Matplotlib / Seaborn            | Data visualization             |
-| PostgreSQL / MySQL / SQL Server | Data storage and querying      |
+| MS SQL Server 20                | Data storage and querying      |
 | Power BI                        | Interactive dashboard creation |
 | Gamma                           | Presentation (PPT) creation    |
 | Microsoft Word                  | Project report documentation   |
